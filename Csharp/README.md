@@ -15,4 +15,4 @@
 
 ## Answer Screenshot
 
-![C# Code Answer Screenshot](D:/RAYA/RAYA_github/Csharp/screenshots/csharp_code_task.png)
+![C# Code Answer Screenshot](screenshots/csharp_code_task.png)
