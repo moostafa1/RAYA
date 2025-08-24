@@ -15,4 +15,4 @@
 
 ## Answer Screenshot
 
-![C# Code Answer Screenshot](Csharp/screenshots/c%23_code_task.png)
+![C# Code Answer Screenshot](Csharp/screenshots/csharp_code_task.png)
