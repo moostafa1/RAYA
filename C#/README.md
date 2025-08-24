@@ -15,4 +15,4 @@
 
 ## Answer Screenshot
 
-![Screenshot]("C#\screenshots\c#_code_task.png")
+![C# Code Task](screenshots/c#_code_task.png)
