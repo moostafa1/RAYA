@@ -1,4 +1,4 @@
-# C# online session task
+# Python online session task
 
 ## Text
 
