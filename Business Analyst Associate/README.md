@@ -1,5 +1,3 @@
 # RAYA
 
 it contains all the required tasks during RAYA Training
-
-![RAYA Training University](RAYA_Holding_CO.png)
