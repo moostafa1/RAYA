@@ -28,9 +28,9 @@ This certification demonstrates my ability to act as the crucial link between bu
 
 <br/>
 
-![RPA Business Analyst Certificate](certificates\RPA_PA_certificate.png)
+![RPA Business Analyst Certificate](certificates/RPA_PA_certificate.png)
 
-![RPA Business Analyst Certificate](certificates\RPA_PA_certificate_2.png)
+![RPA Business Analyst Certificate](certificates/RPA_PA_certificate_2.png)
 
 
 <br/>
