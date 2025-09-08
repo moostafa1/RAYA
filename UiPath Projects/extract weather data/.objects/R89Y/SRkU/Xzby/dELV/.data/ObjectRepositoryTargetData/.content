@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iUY4rVujaE2fCoN7J3QhBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="donjon.bin.sh/d20/weather" CVScreenId="63665875-7b89-4176-bc2d-1e4519017658" CvElementArea="1053, 491, 133, 41" CvTextArea="1075, 501, 88, 18" CvTextArgument="Generate" CvType="Button" DesignTimeRectangle="1056, 493, 128, 36" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Generate' tag='INPUT' type='button' class='' check:text='Generate' /&gt;" Guid="a829add1-f358-47c9-8c43-d0938ba44cc3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='donjon; Random Weather Generator' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bdd2579de83403792a62cab0abdcfec0.png" xmlns="">0b8YRTNMXukmwH8VWiCREgw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

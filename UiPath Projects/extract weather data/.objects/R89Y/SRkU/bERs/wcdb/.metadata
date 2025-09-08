@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Random Weather Generator",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "wcdbUHkLV0u8LFmD02wc7Q",
+  "Reference": "hUlxy0fY50KaE-P1WjFpAw/wcdbUHkLV0u8LFmD02wc7Q",
+  "ParentRef": "hUlxy0fY50KaE-P1WjFpAw/bERsee-oQkqjimKIQHXJIw",
+  "Created": "2025-09-08T09:02:53.284278Z",
+  "Updated": "2025-09-08T09:02:53.284278Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

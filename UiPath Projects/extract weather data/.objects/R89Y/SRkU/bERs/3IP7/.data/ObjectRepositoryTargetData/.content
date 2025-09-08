@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YvdIAwhP3U24b5rONEVv3Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="donjon.bin.sh/d20/weather" CVScreenId="aa3ef052-796e-4074-84e4-81c8e12de5d6" CvElementArea="1128, 401, 163, 33" CvType="InputBox" DesignTimeRectangle="1130, 402, 160, 30" DesignTimeScaleFactor="1.25" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' class='' aaname='Climate:' /&gt;" Guid="9040fd8a-da02-46fb-9ba7-b2f084dcb222" ScopeSelectorArgument="&lt;html app='chrome.exe' title='donjon; Random Weather Generator' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="aa3ef052-796e-4074-84e4-81c8e12de5d6" CvTextArea="1016, 410, 82, 18" CvTextArgument="Climate:" CvType="Text" DesignTimeRectangle="1017, 407, 83, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Climate:' check:innerText='Climate:' /&gt;" Guid="db89c9ed-e915-48df-8a42-b5047b6a577b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="706def43ea7dd341ae9b8960eb1a421c.png" xmlns="">0AK0mbWzBRkWcqpRNbV3EWQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

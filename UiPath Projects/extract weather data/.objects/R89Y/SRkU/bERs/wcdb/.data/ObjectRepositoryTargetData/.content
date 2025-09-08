@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RkBPHAL230KzoMQ-UIyZPQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="a013ba07-f224-4dd1-92ac-690f9713e3d8" CvTextArea="265, 407, 317, 21" CvTextArgument="Random Weather Generator" CvType="Text" DesignTimeRectangle="266, 396, 315, 39" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Random Weather Generator' tag='H3' type='' class='LC20lb MBeuO DKV0Md' check:innerText='Random Weather Generator' /&gt;" Guid="b585ae96-f01b-4d4a-ab5a-6979a1f38bd8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='generate random weather - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="82bd08156d2ead4f9fc75f19337b0b81.png" xmlns="">0_yUca7eeakad5mBO_XKhTw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,4 @@
+Description: Cloudy Temperature: Moderate High: 43°F
+                    (6°C) Low: 27°F
+                    (-3°C) Relative: Colder than normal Wind Force: Light Wind Speed: 2 mph
+                    (3 kph)

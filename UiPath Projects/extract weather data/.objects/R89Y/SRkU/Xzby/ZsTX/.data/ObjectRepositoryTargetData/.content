@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SqcTkX33iUOtJ5CoW6SLrQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" CVScreenId="8309748b-728e-47b4-b293-37155d40f256" CvElementArea="537, 435, 834, 67" CvType="InputBox" DesignTimeRectangle="599, 437, 551, 63" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='APjFqb' tag='TEXTAREA' type='' class='gLFyf' aaname='Search' /&gt;" Guid="330e2c3c-da6b-45f8-9589-e5a73465acaa" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1307, 456, 66, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='AI Mode' tag='SPAN' type='' class='' check:innerText='AI Mode' /&gt;" Guid="494cf7c1-1ab0-41ae-ac46-f01851307273" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e3861a72b77277465e2562168300ccc2.png" xmlns="">0wjydBkOIp0GKgizY8oRRUA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">VerifyTypeIntoExecution</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

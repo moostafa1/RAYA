@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bkC_R7IXUE2u82ZDWiwspA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="1ad304a2-e64a-4158-a669-f4e061bc1f32" CvTextArea="312, 390, 148, 20" CvTextArgument="donjon; RPG Tools" CvType="Text" DesignTimeRectangle="315, 386, 201, 25" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='VuuXrf' parentid='rso' tag='SPAN' type='' aaname='donjon; RPG Tools' check:innerText='donjon; RPG Tools' /&gt;" Guid="a45582a9-222a-44df-b8a4-7e45f2652226" ScopeSelectorArgument="&lt;html app='chrome.exe' title='generate random weather - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ae3a7d3b275d5c9a0c74cb07761819b4.png" xmlns="">0up9X2sReE0yah1PRoRWmqw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

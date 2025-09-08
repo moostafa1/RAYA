@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QN6mNiYzckCymt6KreoWQw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="donjon.bin.sh/d20/weather" CVScreenId="63665875-7b89-4176-bc2d-1e4519017658" CvElementArea="1128, 434, 164, 33" CvType="InputBox" DesignTimeRectangle="1130, 435, 160, 29" DesignTimeScaleFactor="1.25" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl aaname='Supernatural Weather?' tag='SELECT' type='' class='' /&gt;" Guid="f3eb6729-3578-44bd-adbe-0c8fabceae21" ScopeSelectorArgument="&lt;html app='chrome.exe' title='donjon; Random Weather Generator' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="63665875-7b89-4176-bc2d-1e4519017658" CvTextArea="875, 442, 224, 22" CvTextArgument="Supernatural Weather?" CvType="Text" DesignTimeRectangle="877, 440, 223, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Supernatural Weather?' tag='LABEL' type='' class='' check:innerText='Supernatural Weather?' /&gt;" Guid="6f6aa4ab-084b-4fcf-968e-40a120b85538" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a8d78b1d353a1e2678c5a167e35b2c97.png" xmlns="">0X2l_ZrycJkWISN0ce3Ju4w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

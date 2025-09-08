@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Description Windy Temp…",
+  "Type": "Element",
+  "Id": "MBOgoWv0FE6eqp4-_fCrvQ",
+  "Reference": "hUlxy0fY50KaE-P1WjFpAw/MBOgoWv0FE6eqp4-_fCrvQ",
+  "ParentRef": "hUlxy0fY50KaE-P1WjFpAw/XzbyNbAtIUqbGC5VruVnpQ",
+  "Created": "2025-09-08T16:45:24.5448991Z",
+  "Updated": "2025-09-08T16:45:24.5448991Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

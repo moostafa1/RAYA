@@ -1,0 +1,4 @@
+Description: Overcast Temperature: Moderate High: 50°F
+                    (10°C) Low: 33°F
+                    (0°C) Relative: Normal Wind Force: Light Wind Speed: 6 mph
+                    (9 kph)

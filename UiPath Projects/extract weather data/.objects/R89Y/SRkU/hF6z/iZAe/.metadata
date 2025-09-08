@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Al Mode",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "iZAe626RN0WTdJ6ZJZ229A",
+  "Reference": "hUlxy0fY50KaE-P1WjFpAw/iZAe626RN0WTdJ6ZJZ229A",
+  "ParentRef": "hUlxy0fY50KaE-P1WjFpAw/hF6zSp6e0kyIO4PaiNS_HQ",
+  "Created": "2025-09-08T08:10:47.1892158Z",
+  "Updated": "2025-09-08T08:10:47.1892158Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

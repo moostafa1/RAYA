@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Input 'AI Mode'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "ZsTXEufuckyBtdVjde_J2A",
+  "Reference": "hUlxy0fY50KaE-P1WjFpAw/ZsTXEufuckyBtdVjde_J2A",
+  "ParentRef": "hUlxy0fY50KaE-P1WjFpAw/XzbyNbAtIUqbGC5VruVnpQ",
+  "Created": "2025-09-08T17:00:09.2503309Z",
+  "Updated": "2025-09-08T17:00:09.2503309Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
