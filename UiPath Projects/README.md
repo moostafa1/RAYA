@@ -22,6 +22,10 @@ This project demonstrates the development of a UiPath robot designed to automate
 - **Modern activities** can close the browser directly without requiring an explicit **Close Tab** activity, whereas **Classic activities** require it.
 - **Classic activities** do not display warnings when using absolute file paths, while **Modern activities** do provide warnings in such cases.
 
+## SSD Single Package Design
+
+![SSD Single Package Design](data_to_render/Weather_Data_Scraper_Bot_Single_Package_Design.drawio.png)
+
 ## Project video
 
 - To watch the video, click the image below
